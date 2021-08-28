@@ -23,7 +23,9 @@ Using a route tester, like insomnia, you can use various routes to affect the da
 
 ![routes in insomnia](./assets/images/insomnia.png)
 
-![Link to demonstration video](https://drive.google.com/file/d/1UU0DGbxll1snC3OpKM9MJrhb7saPUMh8/view?usp=sharing)
+Link to video demo:
+
+https://drive.google.com/file/d/1UU0DGbxll1snC3OpKM9MJrhb7saPUMh8/view?usp=sharing
 
 ## License
 
